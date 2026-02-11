@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ciao, sono Fabio
 
-<!--
-**FabioFabyoo/FabioFabyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏗️ Infrastructure & HomeLab
+Gestisco e mantengo ecosistemi virtualizzati con un approccio meticoloso:
+- **Virtualizzazione:** Proxmox (il mio parco giochi preferito)
+- **Cloud & Media:** Nextcloud, Jellyfin, Navidrome
+- **Management:** Webmin & SSH power user
 
-Here are some ideas to get you started:
+### 🤖 Automazione & Sviluppo
+Amo eliminare la ripetitività attraverso il codice:
+- **Media Pipeline:** Automazione flussi audio/video con FFmpeg
+- **Scripting:** Python e Batch per ottimizzazione processi
+- **Web & Design:** Sviluppo frontend e grafica creativa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Hardware & Physical Systems
+Non mi limito a configurare il software, costruisco e mantengo l'hardware che lo ospita:
+- **Assemblaggio Professionale:** Progettazione e build di workstation e server per HomeLab
+- **Diagnostica e Riparazione:** Risoluzione guasti a livello hardware e ottimizzazione termica
+- **Bare Metal to Cloud:** Esperienza diretta nel setup fisico di nodi Proxmox e configurazioni RAID
+
+> "Se un processo richiede mille passaggi manuali, il mio obiettivo è ridurlo a un clic. Pulito, ordinato, efficiente."
+
+---
