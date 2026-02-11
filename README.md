@@ -1,23 +1,55 @@
-# Ciao, sono Fabio
+# Ciao, sono Fabio 👋
 
-### 🏗️ Infrastructure & HomeLab
-Gestisco e mantengo ecosistemi virtualizzati con un approccio meticoloso:
-- **Virtualizzazione:** Proxmox (il mio parco giochi preferito)
-- **Cloud & Media:** Nextcloud, Jellyfin, Navidrome
-- **Management:** Webmin & SSH power user
+Infrastructure & Automation Engineer by mindset.
 
-### 🤖 Automazione & Sviluppo
-Amo eliminare la ripetitività attraverso il codice:
-- **Media Pipeline:** Automazione flussi audio/video con FFmpeg
-- **Scripting:** Python e Batch per ottimizzazione processi
-- **Web & Design:** Sviluppo frontend e grafica creativa
+Progetto, costruisco e mantengo sistemi affidabili partendo dall’hardware fino ai servizi pubblicati online. 
+Quando un processo è complesso o ripetitivo, lo analizzo, lo semplifico e lo automatizzo.
 
-### 🔧 Hardware & Physical Systems
-Non mi limito a configurare il software, costruisco e mantengo l'hardware che lo ospita:
-- **Assemblaggio Professionale:** Progettazione e build di workstation e server per HomeLab
-- **Diagnostica e Riparazione:** Risoluzione guasti a livello hardware e ottimizzazione termica
-- **Bare Metal to Cloud:** Esperienza diretta nel setup fisico di nodi Proxmox e configurazioni RAID
-
-> "Se un processo richiede mille passaggi manuali, il mio obiettivo è ridurlo a un clic. Pulito, ordinato, efficiente."
+Se una soluzione non esiste, la progetto.
 
 ---
+
+## 🏗️ Infrastructure, Linux & Virtualization
+
+- **Linux Systems:** progettazione, hardening e gestione ambienti server
+- **Virtualization:** Proxmox (bare-metal, cluster, storage, RAID)
+- **Self-Hosted Architectures:** progettazione servizi resilienti
+- **Networking:** DNS, reverse proxy, segmentazione reti, troubleshooting
+- **Secure Tunneling:** WireGuard + VPS per esposizione sicura di servizi on-premise
+- **From Dynamic DNS to VPS:** migrazione verso architetture più stabili e scalabili
+
+---
+
+## 🤖 Automation & Workflow Engineering
+
+Automatizzo flussi aziendali, non solo media.
+
+- **Process Automation:** Python, Bash, Batch
+- **Workflow Orchestration:** n8n (prossimo step evolutivo)
+- **Pipeline Design:** ingest → processing → publishing
+- **Task Reduction:** trasformare 100 passaggi manuali in uno script ripetibile
+- **System Integration:** collegare servizi diversi in un flusso coerente
+
+---
+
+## 🌐 Web Systems & Application Layer
+
+- Sviluppo interfacce semplici e sistemi complessi
+- CMS avanzati (Joomla background solido, non solo WordPress)
+- Deploy su VPS con architetture sicure
+- Integrazione tra backend, servizi e infrastruttura
+
+---
+
+## 🔧 Hardware & Physical Layer
+
+Non configuro solo server virtuali: li costruisco.
+
+- Assemblaggio workstation e server
+- Diagnostica hardware e ottimizzazione termica
+- Setup fisico nodi Proxmox
+- Integrazione bare-metal → virtualizzazione → servizi
+
+---
+
+> "Un problema tecnico non è un ostacolo. È un sistema ancora da capire."
